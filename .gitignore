@@ -1,0 +1,11 @@
+# Build artifacts
+build/
+
+# Qt Creator / Qt Design Studio user state (contains machine paths & device serials)
+.qtcreator/
+CMakeLists.txt.qtds
+CMakeLists.txt.qtds.bak
+
+# Agent/tooling state (codegraph is a symlink -> must match without trailing slash)
+.omo/
+.codegraph
