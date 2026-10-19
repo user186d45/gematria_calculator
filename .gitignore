@@ -9,3 +9,7 @@ CMakeLists.txt.qtds.bak
 # Agent/tooling state (codegraph is a symlink -> must match without trailing slash)
 .omo/
 .codegraph
+
+.un
+*~
+
