@@ -26,7 +26,10 @@ qt_add_qml_module(appgematria_calculator
     URI gematria_calculator
     QML_FILES
         src/qml/Main.qml
-        src/qml/MainForm.ui.qml
+        src/qml/HebrewQabalahPage.qml
+        src/qml/TrigrammatonQabalahPage.qml
+        src/qml/GreekQabalahPage.qml
+        src/qml/AboutPage.qml
 )
 
 qt_add_resources(qrc_gematria_calculator "resources/resources.qrc")
