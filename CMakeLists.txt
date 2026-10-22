@@ -26,9 +26,9 @@ qt_add_qml_module(appgematria_calculator
     URI gematria_calculator
     QML_FILES
         src/qml/Main.qml
-        src/qml/HebrewQabalahPage.qml
-        src/qml/TrigrammatonQabalahPage.qml
-        src/qml/GreekQabalahPage.qml
+        src/qml/HebrewKabbalahPage.qml
+        src/qml/TrigrammatonKabbalahPage.qml
+        src/qml/GreekKabbalahPage.qml
         src/qml/AboutPage.qml
 )
 
